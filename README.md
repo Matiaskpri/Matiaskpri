@@ -1,5 +1,5 @@
 - 👋 hola soy Matias!!!
-- 👀 Estoy interesado en seguir aprendiendo y perfeccionando en este gran mundo de la programacion ...
+- 👀 Estoy interesado en seguir aprendiendo y perfeccionandome en este gran mundo de la programacion ...
   
 
 <!---
